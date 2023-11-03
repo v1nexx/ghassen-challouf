@@ -1,4 +1,4 @@
-
+![logo] (https://github.com/v1nexx/ghassen-challouf/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Challouf ghassen</h1>
 <h3 align="center">A passionate frontend developer from tunisa</h3>
 
